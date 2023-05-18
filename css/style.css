@@ -48,5 +48,13 @@ body{
     font-size: 25px;
     color: rgb(209, 228, 245);
     letter-spacing: 1px;
-   
+}
+@media (min-width: 200px) and (max-width: 400px){
+    .attribution > p{
+        padding: 10px;
+        text-align: center;
+        font-size: 18px;
+        color: rgb(209, 228, 245);
+        letter-spacing: 1px;
+    }
 }
