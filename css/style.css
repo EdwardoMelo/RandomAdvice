@@ -10,7 +10,7 @@ body{
 }
 .headline{
     font-family: 'Prompt', sans-serif;
-    color: rgb(213, 255, 255);
+    color: white;
     margin: 30vh auto 0;
     border: 1px solid white;
     text-align: center;
